@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Superping": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
